@@ -7,8 +7,8 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/teko-vn/k8s-sealer/bitnami"
-	"github.com/teko-vn/k8s-sealer/rest"
+	"github.com/vuvandang1995/k8s-sealer/bitnami"
+	"github.com/vuvandang1995/k8s-sealer/rest"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 )
 

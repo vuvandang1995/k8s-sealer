@@ -1,4 +1,4 @@
-module github.com/teko-vn/k8s-sealer
+module github.com/vuvandang1995/k8s-sealer
 
 go 1.13
 

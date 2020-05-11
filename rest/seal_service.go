@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/julienschmidt/httprouter"
-	sealer "github.com/teko-vn/k8s-sealer"
+	sealer "github.com/vuvandang1995/k8s-sealer"
 )
 
 // SealHandler represents an HTTP API handler

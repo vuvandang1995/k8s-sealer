@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	sealer "github.com/teko-vn/k8s-sealer"
+	sealer "github.com/vuvandang1995/k8s-sealer"
 )
 
 // Handler is a collection of all the service handlers.

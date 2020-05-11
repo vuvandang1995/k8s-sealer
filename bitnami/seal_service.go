@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	ssv1alpha1 "github.com/bitnami-labs/sealed-secrets/pkg/apis/sealed-secrets/v1alpha1"
-	sealer "github.com/teko-vn/k8s-sealer"
+	sealer "github.com/vuvandang1995/k8s-sealer"
 	v1 "k8s.io/api/core/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/runtime"
